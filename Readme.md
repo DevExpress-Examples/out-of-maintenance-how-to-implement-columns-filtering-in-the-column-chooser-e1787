@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CGrid.cs](./CS/WindowsApplication133/CGrid.cs) (VB: [CGrid.vb](./VB/WindowsApplication133/CGrid.vb))
+* [Form1.cs](./CS/WindowsApplication133/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication133/Form1.vb))
+* [Program.cs](./CS/WindowsApplication133/Program.cs) (VB: [Program.vb](./VB/WindowsApplication133/Program.vb))
+<!-- default file list end -->
 # How to implement columns filtering in the Column Chooser
 
 
